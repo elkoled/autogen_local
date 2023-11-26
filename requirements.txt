@@ -1,2 +1,4 @@
-pyautogen==0.1.14
-pymemgpt
+pyautogen[teachable]==0.1.14
+pymemgpt==0.1.0
+transformers
+torch
